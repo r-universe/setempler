@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "miscset",
+    "oncran": true
+  }
+]
